@@ -1,0 +1,21 @@
+@font-face {
+    font-family: title;
+    src: url(../assets/fonts/Milker.otf);
+}
+
+.navbar-title h1 {
+    font-family: 'title';
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+	/* CSS rule to style footer */
+	.navbar-title h1{
+		font-size: 40px;
+	}
+	.navbar-text > p {
+		color: rgb(228,75,15);
+		font-size: 18px;
+	}
+ }

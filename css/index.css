@@ -1,0 +1,110 @@
+/* Downloading the font */
+@font-face {
+    font-family: headingWelcome;
+    src: url(../assets/fonts/Retosta.otf);
+}
+
+/* Changing the background colour */
+body {
+    background-color: lightblue; 
+}
+
+/* Applying a margin to containers in the HTML files */
+.container {
+    margin-top: 50px; 
+}
+
+/* Declaring the font and colour of h1 headings */
+h1 {
+    font-family: 'headingWelcome';
+    color: white; 
+}
+
+/* Declaring the font of h2 headings */
+h2 {
+    font-family: 'headingWelcome';
+}
+
+form {
+    position: relative;
+    z-index: 1;
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.input-box input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff; 
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3; 
+}
+
+/* Displaying the animated waves on the page */
+.line1 {
+    z-index: 15;
+    opacity: 0.5;
+}
+
+.line2 {
+    z-index: 10;
+    opacity: 0.7;
+}
+
+.line3 {
+    z-index: 5;
+}
+
+.wave {
+    position:fixed;
+    left:0;
+    width:100%;
+    height:80%;
+    background-repeat: repeat no-repeat;
+    background-position: 0 bottom;
+    transform-origin: center bottom;
+    bottom: 0;
+}
+
+.wave1{
+    -webkit-background-size: 50% 80px;
+    background-size: 50% 80px;
+}
+
+.wave2{
+    -webkit-background-size: 50% 100px;
+    background-size: 50% 100px;
+    animation: animate 12s linear infinite;
+}
+
+.wave3{
+    -webkit-background-size: 50% 80px;
+    background-size: 50% 80px;
+    animation: animate 18s linear infinite;
+}
+
+/* Creating a rule for the animation of the waves */
+@keyframes animate {
+    0% {
+        transform: translateX(0) translateZ(0) scaleY(1);
+    }
+    50% {
+        transform: translateX(-25%) translateZ(0) scaleY(0.5);
+    }
+    100% {
+        transform: translateX(-50%) translateZ(0) scaleY(1);
+    }
+}

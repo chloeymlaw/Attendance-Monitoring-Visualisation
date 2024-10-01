@@ -1,0 +1,15 @@
+﻿uniqueID,password,fname,lname,email,student/teacher,M1_grade,M1_attendance,M2_grade,M2_attendance,M3_grade,M3_attendance
+1,$2y$10$Hu7SGPxQNfnhC7L6sQUC8ePYxg7/uwfuvdhUVKE4m13iDucs83E.6,Chloe,,chloe@gmail.com,S,50,45,45,39,3,10
+2,$2y$10$6sO4z2vB34AKLJTO5xlwS.u7nVrZD.JnRROTe6pyOS5xGxCV.td2y,Bethany,,,S,70,80,64,58,27,32
+3,$2y$10$2ozCqyXI70K3mpEcJgtsI.CVcY7QDgYAhO6zjmVvHuKyUtEmBIaPC,Pardiss,,,S,95,87,64,67,80,99
+4,$2y$10$8L32mEnUzH9Omxp7Q1CJAuulEeVBnyXu.Kv/gO0dpK9c7513TIFY6,Charlie,,,S,40,20,25,17,73,65
+5,$2y$10$ugjIpBXH4kjQY63WYUav4uMdjIonSkPJjr5nb9BdLIf8l6pWR5/yG,Lisa,,,T,,,,,,
+6,$2y$10$gPv5NiN4igjbyGbNbq1Xy.UWSLjL.EpP1M5bH8S2aHsHU8U3derOW,Sonia,,,T,,,,,,
+7,$2y$10$aLbGQOFhzW9U.G.iqL.aTuatNlir0SODE9FfQba7X8i2ZVd/6R1Fu,Henry,,,S,54,48,68,47,78,58
+8,$2y$10$yFloxVlFog5PTgHKdtRCVe66B7Lw/Z0psKW.QZ53ROkcwrnjuCFsa,Michelle,,,S,61,57,93,100,85,89
+9,$2y$10$2UYAWsKgRah8jRWtDQS1refJo4gxazUsfY0LyDdX5W9Vjwu9j0owa,Andy,,,S,43,11,37,43,50,42
+10,$2y$10$jNlsscfVHJGhWvZtT4cdoe/NiJ1wJbU7qZsxcxERmBdI1Pp5i2ksS,Rachel,,,S,50,49,60,58,38,20
+11,$2y$10$7IiYjOu4jr3cPutTDFM48uZCeBLXNidGg9BnplMOCssngmulHoDEC,Janina,,,S,81,18,47,41,80,91
+12,$2y$10$qbctTQ1SkQD3p3PUGaKAoeDtrtSa6iQWtej3BCGLLrZPRr8y.JHTO,Timothy,,,S,10,5,35,30,40,27
+13,$2y$10$5HpieN0mFznNsih8njIB6uUKpVzSxtk.YWVsrYtiHsWDOyK0b6nYu,Jamie,,,S,61,43,64,90,51,14
+14,$2y$10$abzysHwwSnUS6ajVCheGdu0ihthgq4B46kHYqJ5UuoLLOltZagKfC,Everly,,,T,,,,,,
